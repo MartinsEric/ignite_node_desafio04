@@ -57,7 +57,8 @@
     "import/no-extraneous-dependencies": [
       "error",
       { "devDependencies": ["**/*.spec.ts"] }
-    ]
+    ],
+    "no-param-reassign": 0
   },
   "settings": {
     "import/resolver": {
